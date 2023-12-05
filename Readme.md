@@ -4,6 +4,8 @@
 
 This is a simple React web application for managing a list of albums. Users can view a list of albums, add new albums, update existing ones, and delete albums from the list.
 
+![Project Preview](./src/Screenshot.png)
+
 ## Project Structure
 
 - `src/components`: Contains React components for different sections of the application.
