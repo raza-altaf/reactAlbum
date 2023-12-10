@@ -44,3 +44,7 @@ This is a simple React web application for managing a list of albums. Users can 
 - The application uses the JSONPlaceholder API for fetching and managing album data.
 
 Feel free to explore and modify the code to suit your specific requirements!
+
+## Contribution
+
+Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
